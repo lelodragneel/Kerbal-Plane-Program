@@ -1,0 +1,1 @@
+Credit goes to Kafka and Jimmy for a small snippet of code here https://gamedev.stackexchange.com/questions/37389/diamond-square-terrain-generation-problem

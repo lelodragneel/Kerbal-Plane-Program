@@ -1,0 +1,9 @@
+﻿  Experiment.c
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(75): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AdvancedOpenGL.vcxproj -> C:\Users\Lelo\source\repos\AdvancedOpenGL\Release\AdvancedOpenGL.exe

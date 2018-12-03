@@ -1,0 +1,1 @@
+My extra feature is two realistic AI formation-flying planes (one on left, one on right). Keep in mind this isn't just a simple mirror of the main plane, it's realistic in the sense of speed. Each plane has working propellers and working lighting with shine.

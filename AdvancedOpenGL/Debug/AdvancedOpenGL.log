@@ -1,0 +1,43 @@
+﻿  Experiment.c
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(72): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(75): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(127): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(147): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(149): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(183): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(231): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(233): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(264): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(266): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(267): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(269): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(290): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(292): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(293): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(294): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(296): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(226): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(318): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(319): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(320): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(326): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(327): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(328): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(334): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(335): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(336): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(653): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(654): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(664): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(669): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(865): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(874): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(916): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(907): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(913): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(949): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(951): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\lelo\source\repos\advancedopengl\advancedopengl\experiment.c(955): warning C4028: formal parameter 1 different from declaration
+  AdvancedOpenGL.vcxproj -> C:\Users\Lelo\source\repos\AdvancedOpenGL\Debug\AdvancedOpenGL.exe
